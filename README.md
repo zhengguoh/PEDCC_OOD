@@ -1,3 +1,3 @@
 # PEDCC_OOD
 
-The code will be updated soon
+Soon to be open source!
